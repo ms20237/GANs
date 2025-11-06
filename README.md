@@ -2,7 +2,7 @@
 This notebook, GANs_from_scratch.ipynb, demonstrates how to implement a Generative Adversarial Network (GAN) completely from scratch using PyTorch.
 It walks through every key step — from building the generator and discriminator models to training the network and visualizing generated samples.
 
-##📘 Overview
+## 📘 Overview
 
 A Generative Adversarial Network (GAN) consists of two neural networks that compete with each other:
 
@@ -22,19 +22,19 @@ Through this adversarial process, the generator improves at producing data that 
 | **4. Visualization**               | Displaying generated images as training progresses |
 | **5. Results**                     | Final outputs and discussion                       |
 ```
-##⚙️ Requirements
+## ⚙️ Requirements
 To run this notebook, install the following dependencies:
 ```bash
 pip install torch torchvision matplotlib pytorch-lightning
 ```
 
-### Recommended environment:
+## Recommended environment:
  - Python ≥ 3.10
  - PyTorch ≥ 2.0
  - PyTorch Lightning ≥ 2.0
  - GPU (CUDA) is highly recommended
 
-##🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 ```bash
 git clone https://github.com/ms20237/GANs.git
