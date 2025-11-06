@@ -16,11 +16,11 @@ Through this adversarial process, the generator improves at producing data that 
 ```bash
 | Section                            | Description                                        |
 | ---------------------------------- | -------------------------------------------------- |
-| 1. Introduction                | Overview of GANs and PyTorch setup                 |
-| 2. Generator and Discriminator | Definition of model architectures                  |
-| 3. Training Loop               | Implementation of the adversarial training process |
-| 4. Visualization               | Displaying generated images as training progresses |
-| 5. Results                     | Final outputs and discussion                       |
+| 1. Introduction                    | Overview of GANs and PyTorch setup                 |
+| 2. Generator and Discriminator     | Definition of model architectures                  |
+| 3. Training Loop                   | Implementation of the adversarial training process |
+| 4. Visualization                   | Displaying generated images as training progresses |
+| 5. Results                         | Final outputs and discussion                       |
 ```
 ## ⚙️ Requirements
 To run this notebook, install the following dependencies:
